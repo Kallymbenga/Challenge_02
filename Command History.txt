@@ -1,0 +1,58 @@
+(base)
+dilez@KallyMbenga MINGW64 ~
+$ pwd
+/c/Users/dilez
+(base)
+dilez@KallyMbenga MINGW64 ~
+$ conda activate dev
+(dev)
+dilez@KallyMbenga MINGW64 ~
+$ cd desktop
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop
+$ ls
+ 01_Import_Data/         Class_1_Activities/   indexing_loans.ipynb    Project-Repo/   Untitled.ipynb
+ 01_Importing_the_VIX/   command_history.txt  'Module 2 Activities'/   sample.txt
+ Challenge_2/            FinTech-Workspace/   'module 3'/              Test/
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop
+$ cd Challenge_2
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2
+$ ls
+Starter_Code/
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2
+$ cd Starter_Code
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2/Starter_Code
+$ ls
+loan_qualifier_app/
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2/Starter_Code
+$ ls
+loan_qualifier_app/
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2/Starter_Code
+$ cd loan_qualifier_app
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2/Starter_Code/loan_qualifier_app
+$ ls
+app.py  data/  qualifier/  README.md
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2/Starter_Code/loan_qualifier_app
+$ cd ..
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2/Starter_Code
+$ cd ..
+(dev)
+dilez@KallyMbenga MINGW64 ~/desktop/Challenge_2
+$ git clone https://github.com/Kallymbenga/Challenge_02.git
+Cloning into 'Challenge_02'...
+remote: Enumerating objects: 22, done.
+remote: Counting objects: 100% (22/22), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 22 (delta 4), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (22/22), 7.75 KiB | 881.00 KiB/s, done.
+Resolving deltas: 100% (4/4), done.
+(dev)
