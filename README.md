@@ -1,12 +1,11 @@
 # Project Title
-
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+I am creating the application that will facilitate the lender by accessing the list of the potential borrower who will be qualify for the loan based on some criteria that the lender want such a debt, income or credit score. The lender will also have a possibilty to choose among the bank the one match the qualify borrower.
 
 ---
 
 ## Technologies
+For this project I will be using Python as programming language
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
 
