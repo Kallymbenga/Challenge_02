@@ -4,8 +4,11 @@ I am creating the application that will facilitate the lender by accessing the l
 ---
 
 ## Technologies
-For this project I will be using Python as programming language
-
+For this project I used Python as programming language
+We import;
+sys :to let us access a specific parameters and functions
+fire:for the command line interface
+questionary: for interactive user prompt and dialogs
 
 ---
 
@@ -13,7 +16,8 @@ For this project I will be using Python as programming language
 
 In this section, you should include detailed installation notes containing code blocks and screenshots.
 
----
+pip install fire
+pip install questionary
 
 ## Usage
 
