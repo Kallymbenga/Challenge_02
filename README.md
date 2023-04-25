@@ -1,33 +1,33 @@
 # Project Title
-I am creating the application that will facilitate the lender by accessing the list of the potential borrower who will be qualify for the loan based on some criteria that the lender want such a debt, income or credit score. The lender will also have a possibilty to choose among the bank the one match the qualify borrower.
+
+Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
 ---
 
 ## Technologies
-For this project I used Python as programming language
-We import;
-sys :to let us access a specific parameters and functions
-fire:for the command line interface
-questionary: for interactive user prompt and dialogs
+
+Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
 
 ## Installation Guide
 
-pip install fire
-pip install questionary
+In this section, you should include detailed installation notes containing code blocks and screenshots.
+
+
 
 ## Usage
-![Screenshot 2023-](https://user-images.githubusercontent.com/127797242/232173208-502c623e-09c7-44f8-b800-6bc3df1859ba.png)
 
----
+This section should include screenshots, code blocks, or animations explaining how to use your project.
+
+Screenshot 2023-02.png
 
 ## Contributors
 
-
+In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 
 ---
 
 ## License
 
-
+When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
